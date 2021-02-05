@@ -18,13 +18,14 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/1.jpg
+    - image: /img/5.jpg
       text: >
         La rubita NIVEL VIP de la Mansion.
 
         Las mujeres mas lindas del Paraguay están en la Mansión VIP. Contamos con habitaciones climatizadas, en-suite y estacionamiento propio. Elegí lo mejor.
         SOLO ACEPTAMOS PAGOS EN EFECTIVO
-    - image: /img/5.jpg
+
+    - image: /img/6.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
