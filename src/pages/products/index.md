@@ -24,7 +24,6 @@ intro:
 
         Las mujeres mas lindas del Paraguay están en la Mansión VIP. Contamos con habitaciones climatizadas, en-suite y estacionamiento propio. Elegí lo mejor.
         SOLO ACEPTAMOS PAGOS EN EFECTIVO
-
     - image: /img/5.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
